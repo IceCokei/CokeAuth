@@ -6,7 +6,7 @@
 
 一款免费部署你的ChatGPT授权机器人🤖️ 轻松管理网页授权👋。
 
-[演示 Demo](http://ai.cokeii.cf/) /🌲/ [反馈 测试](https://t.me/cokeAI_Authorizationbot) 
+
 </div>
 
 
